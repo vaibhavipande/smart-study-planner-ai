@@ -20,13 +20,14 @@ build/
 # ===============================
 # Environment variables (IMPORTANT)
 # ===============================
-.ENV
+.env
 .env.local
 .env.development
 .env.production
 .env.test
 .env.*
 ENV_SETUP
+ENV_SETUP.*
 # ===============================
 # Logs & debug
 # ===============================
